@@ -1,5 +1,6 @@
 ---
 title: 新永 浩子 (Hiroko Shinnaga)
+avatar: admin.jpg
 first_name: Hiroko
 last_name: Shinnaga
 superuser: true
