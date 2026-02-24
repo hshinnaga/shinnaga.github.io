@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: 'Shinnaga Lab'
 # Website URL
-baseURL: 'https://hshinnaga.github.io-shinnaga.github.io/'
+baseURL: 'https://hshinnaga.github.io/hshinnaga.github.io-shinnaga.github.io/'
 
 ############################
 ## LANGUAGE
